@@ -1,0 +1,1376 @@
+{
+    "64": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 48105,
+            "MapID": 2,
+            "Coordinates": [
+                {
+                    "x": 78595,
+                    "y": 38173,
+                    "z": 1103296
+                }
+            ]
+        }
+    ],
+    "79": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 47992,
+            "MapID": 9,
+            "Coordinates": [
+                {
+                    "x": 17870,
+                    "y": 30760,
+                    "z": 1057792
+                }
+            ]
+        }
+    ],
+    "80": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 36945,
+            "MapID": 16,
+            "Coordinates": [
+                {
+                    "x": 28429,
+                    "y": 71756,
+                    "z": 1058432
+                }
+            ]
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 5,
+            "ObjectID": 5812,
+            "MapID": 16,
+            "Coordinates": [
+                {
+                    "x": 28074,
+                    "y": 72288,
+                    "z": 1058432
+                }
+            ]
+        }
+    ],
+    "99": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 42874,
+            "MapID": 12,
+            "Coordinates": [
+                {
+                    "x": 79906,
+                    "y": 45713,
+                    "z": 1079552
+                }
+            ]
+        }
+    ],
+    "131": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 48171,
+            "MapID": 49,
+            "Coordinates": [
+                {
+                    "x": 97927,
+                    "y": 73536,
+                    "z": 1117952
+                }
+            ]
+        }
+    ],
+    "132": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 48057,
+            "MapID": 215,
+            "Coordinates": [
+                {
+                    "x": 116881,
+                    "y": 120613,
+                    "z": 1156416
+                }
+            ]
+        }
+    ],
+    "146": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 51323,
+            "MapID": 172,
+            "Coordinates": [
+                {
+                    "x": 17739,
+                    "y": 46040,
+                    "z": 1052096
+                }
+            ]
+        }
+    ],
+    "147": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 11969,
+            "MapID": 108,
+            "Coordinates": []
+        }
+    ],
+    "148": [
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 3,
+            "ObjectID": 51303,
+            "MapID": 23,
+            "Coordinates": [
+                {
+                    "x": 39830,
+                    "y": 37690,
+                    "z": 1049920
+                }
+            ]
+        },
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 0,
+            "ObjectID": 0,
+            "MapID": 23,
+            "Coordinates": [
+                {
+                    "x": 39318,
+                    "y": 25577,
+                    "z": 1066944
+                }
+            ]
+        }
+    ],
+    "190": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 51963,
+            "MapID": 105,
+            "Coordinates": [
+                {
+                    "x": 68428,
+                    "y": 106598,
+                    "z": 1072192
+                }
+            ]
+        }
+    ],
+    "191": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 51936,
+            "MapID": 101,
+            "Coordinates": [
+                {
+                    "x": 55729,
+                    "y": 118573,
+                    "z": 1055296
+                }
+            ]
+        }
+    ],
+    "192": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 2350,
+            "MapID": 10,
+            "Coordinates": [
+                {
+                    "x": 48026,
+                    "y": 16163,
+                    "z": 1064547
+                }
+            ]
+        }
+    ],
+    "212": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 55289,
+            "MapID": 102,
+            "Coordinates": [
+                {
+                    "x": 13226,
+                    "y": 95331,
+                    "z": 1067008
+                }
+            ]
+        }
+    ],
+    "213": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 54677,
+            "MapID": 159,
+            "Coordinates": [
+                {
+                    "x": 64831,
+                    "y": 80600,
+                    "z": 1104192
+                }
+            ]
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 5,
+            "ObjectID": 6342,
+            "MapID": 159,
+            "Coordinates": []
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 3,
+            "ObjectID": 55065,
+            "MapID": 159,
+            "Coordinates": [
+                {
+                    "x": 99595,
+                    "y": 105495,
+                    "z": 1109056
+                }
+            ]
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 5,
+            "ObjectID": 6341,
+            "MapID": 159,
+            "Coordinates": []
+        }
+    ],
+    "214": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 55282,
+            "MapID": 216,
+            "Coordinates": [
+                {
+                    "x": 67686,
+                    "y": 31758,
+                    "z": 1089600
+                }
+            ]
+        }
+    ],
+    "228": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 56702,
+            "MapID": 239,
+            "Coordinates": []
+        }
+    ],
+    "229": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 56477,
+            "MapID": 22,
+            "Coordinates": [
+                {
+                    "x": 92537,
+                    "y": 74609,
+                    "z": 1123623
+                }
+            ]
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 5,
+            "ObjectID": 6500,
+            "MapID": 22,
+            "Coordinates": [
+                {
+                    "x": 98792,
+                    "y": 53453,
+                    "z": 1115894
+                },
+                {
+                    "x": 85317,
+                    "y": 59074,
+                    "z": 1113953
+                },
+                {
+                    "x": 61048,
+                    "y": 19616,
+                    "z": 1099344
+                }
+            ]
+        }
+    ],
+    "230": [
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 3,
+            "ObjectID": 56476,
+            "MapID": 193,
+            "Coordinates": [
+                {
+                    "x": 90747,
+                    "y": 11840,
+                    "z": 1152128
+                }
+            ]
+        },
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 0,
+            "ObjectID": 0,
+            "MapID": 193,
+            "Coordinates": [
+                {
+                    "x": 90172,
+                    "y": 9341,
+                    "z": 1157632
+                }
+            ]
+        }
+    ],
+    "236": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 59052,
+            "MapID": 213,
+            "Coordinates": [
+                {
+                    "x": 103805,
+                    "y": 53942,
+                    "z": 1057856
+                }
+            ]
+        }
+    ],
+    "237": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 58137,
+            "MapID": 5,
+            "Coordinates": [
+                {
+                    "x": 33736,
+                    "y": 53999,
+                    "z": 1127424
+                }
+            ]
+        }
+    ],
+    "238": [
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 3,
+            "ObjectID": 57929,
+            "MapID": 23,
+            "Coordinates": [
+                {
+                    "x": 39192,
+                    "y": 35207,
+                    "z": 1049728
+                }
+            ]
+        },
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 0,
+            "ObjectID": 0,
+            "MapID": 23,
+            "Coordinates": [
+                {
+                    "x": 42555,
+                    "y": 53100,
+                    "z": 1064768
+                }
+            ]
+        }
+    ],
+    "242": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 5,
+            "ObjectID": 6985,
+            "MapID": 13,
+            "Coordinates": [
+                {
+                    "x": 64145,
+                    "y": 45776,
+                    "z": 1076544
+                }
+            ]
+        }
+    ],
+    "244": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 59355,
+            "MapID": 16,
+            "Coordinates": [
+                {
+                    "x": 10989,
+                    "y": 77872,
+                    "z": 1058496
+                }
+            ]
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 5,
+            "ObjectID": 6915,
+            "MapID": 16,
+            "Coordinates": [
+                {
+                    "x": 60561,
+                    "y": 76953,
+                    "z": 1070272
+                }
+            ]
+        }
+    ],
+    "245": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 59322,
+            "MapID": 15,
+            "Coordinates": [
+                {
+                    "x": 56639,
+                    "y": 83913,
+                    "z": 1053376
+                }
+            ]
+        }
+    ],
+    "246": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 59352,
+            "MapID": 159,
+            "Coordinates": [
+                {
+                    "x": 96710,
+                    "y": 62200,
+                    "z": 1093824
+                }
+            ]
+        }
+    ],
+    "247": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 59335,
+            "MapID": 7,
+            "Coordinates": [
+                {
+                    "x": 28715,
+                    "y": 8302,
+                    "z": 1159680
+                }
+            ]
+        }
+    ],
+    "248": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 59356,
+            "MapID": 122,
+            "Coordinates": [
+                {
+                    "x": 18703,
+                    "y": 64246,
+                    "z": 1129600
+                }
+            ]
+        }
+    ],
+    "249": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 59272,
+            "MapID": 13,
+            "Coordinates": [
+                {
+                    "x": 7711,
+                    "y": 23420,
+                    "z": 1076736
+                }
+            ]
+        }
+    ],
+    "250": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 59337,
+            "MapID": 150,
+            "Coordinates": [
+                {
+                    "x": 39208,
+                    "y": 70614,
+                    "z": 1144832
+                }
+            ]
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 3,
+            "ObjectID": 59336,
+            "MapID": 150,
+            "Coordinates": [
+                {
+                    "x": 39008,
+                    "y": 69908,
+                    "z": 1148800
+                }
+            ]
+        }
+    ],
+    "251": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 59328,
+            "MapID": 193,
+            "Coordinates": [
+                {
+                    "x": 23119,
+                    "y": 106289,
+                    "z": 1158464
+                }
+            ]
+        }
+    ],
+    "255": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 59796,
+            "MapID": 13,
+            "Coordinates": [
+                {
+                    "x": 52136,
+                    "y": 53517,
+                    "z": 1051072
+                }
+            ]
+        }
+    ],
+    "256": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 59794,
+            "MapID": 13,
+            "Coordinates": [
+                {
+                    "x": 65459,
+                    "y": 65474,
+                    "z": 1050624
+                }
+            ]
+        }
+    ],
+    "260": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 62005,
+            "MapID": 243,
+            "Coordinates": [
+                {
+                    "x": 82521,
+                    "y": 14656,
+                    "z": 1082560
+                }
+            ]
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 5,
+            "ObjectID": 7274,
+            "MapID": 243,
+            "Coordinates": [
+                {
+                    "x": 63077,
+                    "y": 37160,
+                    "z": 1048128
+                }
+            ]
+        }
+    ],
+    "261": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 62806,
+            "MapID": 330,
+            "Coordinates": [
+                {
+                    "x": 90795,
+                    "y": 8123,
+                    "z": 1205824
+                }
+            ]
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 5,
+            "ObjectID": 7459,
+            "MapID": 330,
+            "Coordinates": [
+                {
+                    "x": 103679,
+                    "y": 29146,
+                    "z": 1215883
+                },
+                {
+                    "x": 102500,
+                    "y": 23062,
+                    "z": 1212576
+                }
+            ]
+        }
+    ],
+    "262": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 62788,
+            "MapID": 332,
+            "Coordinates": [
+                {
+                    "x": 36735,
+                    "y": 84279,
+                    "z": 1049152
+                }
+            ]
+        }
+    ],
+    "283": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 65917,
+            "MapID": 216,
+            "Coordinates": [
+                {
+                    "x": 46004,
+                    "y": 59444,
+                    "z": 1079232
+                }
+            ]
+        }
+    ],
+    "284": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 65578,
+            "MapID": 411,
+            "Coordinates": [
+                {
+                    "x": 74246,
+                    "y": 58833,
+                    "z": 1075072
+                }
+            ]
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 5,
+            "ObjectID": 7707,
+            "MapID": 411,
+            "Coordinates": [
+                {
+                    "x": 74556,
+                    "y": 57757,
+                    "z": 1075136
+                }
+            ]
+        }
+    ],
+    "285": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 65896,
+            "MapID": 6,
+            "Coordinates": [
+                {
+                    "x": 40550,
+                    "y": 27393,
+                    "z": 1049984
+                }
+            ]
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 5,
+            "ObjectID": 7763,
+            "MapID": 6,
+            "Coordinates": [
+                {
+                    "x": 41015,
+                    "y": 23468,
+                    "z": 1049728
+                }
+            ]
+        }
+    ],
+    "319": [
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 3,
+            "ObjectID": 69040,
+            "MapID": 6,
+            "Coordinates": [
+                {
+                    "x": 62780,
+                    "y": 37639,
+                    "z": 1049152
+                }
+            ]
+        },
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 5,
+            "ObjectID": 6914,
+            "MapID": 6,
+            "Coordinates": [
+                {
+                    "x": 62713,
+                    "y": 38189,
+                    "z": 1048896
+                }
+            ]
+        }
+    ],
+    "320": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 68983,
+            "MapID": 5,
+            "Coordinates": [
+                {
+                    "x": 17604,
+                    "y": 9165,
+                    "z": 1053120
+                }
+            ]
+        }
+    ],
+    "321": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 68984,
+            "MapID": 5,
+            "Coordinates": [
+                {
+                    "x": 6330,
+                    "y": 18100,
+                    "z": 1053376
+                }
+            ]
+        }
+    ],
+    "58": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 5,
+            "ObjectID": 4582,
+            "MapID": 5,
+            "Coordinates": [
+                {
+                    "x": 56547,
+                    "y": 29403,
+                    "z": 1120530
+                },
+                {
+                    "x": 46495,
+                    "y": 32074,
+                    "z": 1122300
+                },
+                {
+                    "x": 43446,
+                    "y": 12157,
+                    "z": 1097318
+                },
+                {
+                    "x": 18451,
+                    "y": 8628,
+                    "z": 1059532
+                },
+                {
+                    "x": 14614,
+                    "y": 13536,
+                    "z": 1049042
+                },
+                {
+                    "x": 19808,
+                    "y": 11270,
+                    "z": 1048897
+                },
+                {
+                    "x": 46623,
+                    "y": 20329,
+                    "z": 1104960
+                }
+            ]
+        }
+    ],
+    "65": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 5,
+            "ObjectID": 4706,
+            "MapID": 8,
+            "Coordinates": [
+                {
+                    "x": 35894,
+                    "y": 33690,
+                    "z": 1065856
+                },
+                {
+                    "x": 50271,
+                    "y": 21851,
+                    "z": 1075840
+                },
+                {
+                    "x": 47892,
+                    "y": 20442,
+                    "z": 1071936
+                },
+                {
+                    "x": 40056,
+                    "y": 21061,
+                    "z": 1068352
+                },
+                {
+                    "x": 41648,
+                    "y": 24328,
+                    "z": 1068288
+                },
+                {
+                    "x": 43410,
+                    "y": 27630,
+                    "z": 1066304
+                },
+                {
+                    "x": 42175,
+                    "y": 30551,
+                    "z": 1064704
+                },
+                {
+                    "x": 38482,
+                    "y": 31862,
+                    "z": 1065024
+                }
+            ]
+        }
+    ],
+    "78": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 5,
+            "ObjectID": 4763,
+            "MapID": 100,
+            "Coordinates": [
+                {
+                    "x": 32669,
+                    "y": 103174,
+                    "z": 1086272
+                },
+                {
+                    "x": 54365,
+                    "y": 108450,
+                    "z": 1108288
+                },
+                {
+                    "x": 87696,
+                    "y": 94020,
+                    "z": 1109248
+                },
+                {
+                    "x": 9805,
+                    "y": 83814,
+                    "z": 1079808
+                },
+                {
+                    "x": 45308,
+                    "y": 55700,
+                    "z": 1109120
+                },
+                {
+                    "x": 41458,
+                    "y": 32924,
+                    "z": 1108288
+                },
+                {
+                    "x": 97537,
+                    "y": 51984,
+                    "z": 1115456
+                },
+                {
+                    "x": 73459,
+                    "y": 20938,
+                    "z": 1102208
+                },
+                {
+                    "x": 49604,
+                    "y": 14220,
+                    "z": 1102400
+                },
+                {
+                    "x": 91529,
+                    "y": 75426,
+                    "z": 1113152
+                }
+            ]
+        }
+    ],
+    "82": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 5,
+            "ObjectID": 5055,
+            "MapID": 194,
+            "Coordinates": [
+                {
+                    "x": 101721,
+                    "y": 32599,
+                    "z": 1155072
+                },
+                {
+                    "x": 117753,
+                    "y": 57272,
+                    "z": 1160128
+                },
+                {
+                    "x": 97496,
+                    "y": 85948,
+                    "z": 1140032
+                },
+                {
+                    "x": 59611,
+                    "y": 96426,
+                    "z": 1088448
+                },
+                {
+                    "x": 30860,
+                    "y": 32351,
+                    "z": 1130624
+                },
+                {
+                    "x": 120414,
+                    "y": 58690,
+                    "z": 1160192
+                }
+            ]
+        }
+    ],
+    "83": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 5,
+            "ObjectID": 5053,
+            "MapID": 30,
+            "Coordinates": [
+                {
+                    "x": 46360,
+                    "y": 26876,
+                    "z": 1071168
+                },
+                {
+                    "x": 37412,
+                    "y": 27050,
+                    "z": 1063424
+                },
+                {
+                    "x": 45649,
+                    "y": 26523,
+                    "z": 1066240
+                },
+                {
+                    "x": 35017,
+                    "y": 29281,
+                    "z": 1061632
+                },
+                {
+                    "x": 43928,
+                    "y": 26847,
+                    "z": 1065601
+                },
+                {
+                    "x": 40488,
+                    "y": 18722,
+                    "z": 1080320
+                },
+                {
+                    "x": 51997,
+                    "y": 19206,
+                    "z": 1078528
+                }
+            ]
+        }
+    ],
+    "98": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 5,
+            "ObjectID": 5155,
+            "MapID": 101,
+            "Coordinates": [
+                {
+                    "x": 16734,
+                    "y": 75852,
+                    "z": 1047168
+                },
+                {
+                    "x": 27023,
+                    "y": 60884,
+                    "z": 1048832
+                },
+                {
+                    "x": 33020,
+                    "y": 35331,
+                    "z": 1051008
+                },
+                {
+                    "x": 38650,
+                    "y": 65942,
+                    "z": 1050432
+                },
+                {
+                    "x": 94992,
+                    "y": 70331,
+                    "z": 1050496
+                },
+                {
+                    "x": 61190,
+                    "y": 100453,
+                    "z": 1049856
+                },
+                {
+                    "x": 87278,
+                    "y": 96152,
+                    "z": 1050880
+                }
+            ]
+        }
+    ],
+    "111": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 5,
+            "ObjectID": 5316,
+            "MapID": 103,
+            "Coordinates": [
+                {
+                    "x": 25065,
+                    "y": 89647,
+                    "z": 1100352
+                },
+                {
+                    "x": 27100,
+                    "y": 86955,
+                    "z": 1100096
+                },
+                {
+                    "x": 23048,
+                    "y": 48363,
+                    "z": 1194048
+                },
+                {
+                    "x": 99326,
+                    "y": 66725,
+                    "z": 1163648
+                },
+                {
+                    "x": 110628,
+                    "y": 96671,
+                    "z": 1183744
+                },
+                {
+                    "x": 71672,
+                    "y": 24100,
+                    "z": 1188352
+                },
+                {
+                    "x": 90357,
+                    "y": 16312,
+                    "z": 1226240
+                },
+                {
+                    "x": 18847,
+                    "y": 81609,
+                    "z": 1110912
+                }
+            ]
+        }
+    ],
+    "337": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 99195,
+            "MapID": 49,
+            "Coordinates": [
+                {
+                    "x": 49977,
+                    "y": 16734,
+                    "z": 1134016
+                }
+            ]
+        }
+    ],
+    "338": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 70597,
+            "MapID": 325,
+            "Coordinates": [
+                {
+                    "x": 66183,
+                    "y": 82929,
+                    "z": 1154304
+                }
+            ]
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 5,
+            "ObjectID": 8255,
+            "MapID": 325,
+            "Coordinates": [
+                {
+                    "x": 66184,
+                    "y": 83084,
+                    "z": 1154240
+                }
+            ]
+        }
+    ],
+    "339": [
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 3,
+            "ObjectID": 25876,
+            "MapID": 172,
+            "Coordinates": [
+                {
+                    "x": 22636,
+                    "y": 53321,
+                    "z": 1052544
+                }
+            ]
+        },
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 0,
+            "MapID": 333,
+            "Coordinates": []
+        }
+    ],
+    "359": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 102012,
+            "MapID": 334,
+            "Coordinates": [
+                {
+                    "x": 21903,
+                    "y": 41046,
+                    "z": 1057856
+                }
+            ]
+        }
+    ],
+    "360": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 5,
+            "ObjectID": 8600,
+            "MapID": 473,
+            "Coordinates": [
+                {
+                    "x": 93604,
+                    "y": 57294,
+                    "z": 1110528
+                },
+                {
+                    "x": 93237,
+                    "y": 56560,
+                    "z": 1109568
+                },
+                {
+                    "x": 91235,
+                    "y": 57825,
+                    "z": 1108928
+                }
+            ]
+        }
+    ],
+    "361": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 102833,
+            "MapID": 9,
+            "Coordinates": [
+                {
+                    "x": 53449,
+                    "y": 14247,
+                    "z": 1066816
+                }
+            ]
+        }
+    ],
+    "373": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 5,
+            "ObjectID": 8961,
+            "MapID": 462,
+            "Coordinates": [
+                {
+                    "x": 31649,
+                    "y": 52906,
+                    "z": 2407488
+                }
+            ]
+        }
+    ],
+    "374": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 99555,
+            "MapID": 486,
+            "Coordinates": [
+                {
+                    "x": 16260,
+                    "y": 21089,
+                    "z": 1059008
+                }
+            ]
+        }
+    ],
+    "375": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 104935,
+            "MapID": 455,
+            "Coordinates": [
+                {
+                    "x": 7732,
+                    "y": 5228,
+                    "z": 1069952
+                }
+            ]
+        }
+    ],
+    "383": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 106832,
+            "MapID": 526,
+            "Coordinates": [
+                {
+                    "x": 17907,
+                    "y": 67500,
+                    "z": 1935552
+                },
+                {
+                    "x": 17630,
+                    "y": 59411,
+                    "z": 1923200
+                },
+                {
+                    "x": 31274,
+                    "y": 70706,
+                    "z": 1953664
+                }
+            ]
+        }
+    ],
+    "384": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 107295,
+            "MapID": 194,
+            "Coordinates": [
+                {
+                    "x": 23355,
+                    "y": 74281,
+                    "z": 1133696
+                }
+            ]
+        }
+    ],
+    "385": [
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 3,
+            "ObjectID": 107331,
+            "MapID": 215,
+            "Coordinates": [
+                {
+                    "x": 119324,
+                    "y": 118091,
+                    "z": 1156672
+                }
+            ]
+        },
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 107332,
+            "MapID": 215,
+            "Coordinates": [
+                {
+                    "x": 89002,
+                    "y": 113081,
+                    "z": 1157440
+                },
+                {
+                    "x": 85312,
+                    "y": 111817,
+                    "z": 1156928
+                }
+            ]
+        }
+    ]
+}
