@@ -1,7 +1,7 @@
 # Petmap
 
 ```js
-import PetMap from '@jx3box/jx3box-petmap/components/petmap/src/components/PetMap.vue
+import PetMap from '@jx3box/jx3box-petmap/src/components/PetMap.vue
 ```
 
 ```html
