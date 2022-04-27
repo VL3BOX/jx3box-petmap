@@ -7,15 +7,16 @@
       :display="displayMap"
       @onChangeMap="changeMap"
     ></map-switch>
-    <poi-info v-if="showDesc" :item="showPoint"></poi-info>
-    <span
-      class="m-petMap-point"
+    <el-popover
+      class="m-petMap-popover"
+      placement="top"
+      trigger="hover"
       v-for="(point, index) in showPosition"
       :key="index"
-      @click="showPointInfo(point, index)"
-      :style="pointStyle(point.Coordinates, mapScales[displayMap])"
-    >
-    </span>
+      :style="pointStyle(point.Coordinates, mapScales[displayMap])">
+      <poi-info :item="point"></poi-info>
+      <span class="m-petMap-point" slot="reference"></span>
+    </el-popover>
   </div>
 </template>
 
@@ -29,7 +30,7 @@ import PoiInfo from "@/components/PoiInfo.vue";
 
 export default {
   name: "PetMap",
-  components: { MapSwitch, PoiInfo },
+  components: { PoiInfo, MapSwitch },
   props: {
     petId: {
       type: Number,
@@ -49,8 +50,7 @@ export default {
       positions: {},
       mapScales: {},
       displayMap: 0,
-      showDesc: false,
-      showPoint: null
+      showDesc: false
     };
   },
   created() {
@@ -84,11 +84,7 @@ export default {
         (Coordinates.x - MapScales.StartX) * MapScales.Scale * (this.width / 1024) 
       }px; bottom: ${
         (Coordinates.y - MapScales.StartY) * MapScales.Scale * (this.height / 896) }px;`;
-    },
-    showPointInfo(item) {
-      this.showDesc = true;
-      this.showPoint = item;
-    },
+    }
   },
   computed: {
     petMap_url: function () {

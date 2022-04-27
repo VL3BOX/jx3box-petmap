@@ -1,3 +1,16 @@
+// .blink(@time:0.5s){
+//   @keyframes fadeOut{
+//       0%{opacity:1;}
+//       50%{opacity:0.4;}
+//       100%{opacity:1;}
+//   }
+//   animation-name:fadeOut;
+//   animation-duration:@time;
+//   animation-timing-function:ease-out;
+//   animation-fill-mode:forwards;
+//   animation-iteration-count: infinite;
+// }
+
 .m-petMap {
   .pr;
   .auto(x);
@@ -11,42 +24,33 @@
     .size(100%);
   }
 
-  .m-petMap-point {
-    .z(2);
-    .db;
-    .pointer;
+  .m-petMap-popover {
     .pa;
-    .w(8px);
-    .h(8px);
+    .db;
+    .z(2);
     .mt(4.5px);
     .ml(-4.5px);
-    background-color: #f44a22;
-    border: 1px solid #000a;
-
-    &:hover {
-      border: 2px solid #0008;
-      .mt(5px);
-      .ml(-5px);
-    }
   }
 
-  .m-poi-info {
-    .z(3);
-    .pa;
-    user-select: text;
-    background-color: #fffb;
-    .x(center);
-    padding: 0 .75rem;
-    .r(10px);
-    right: 1rem;
-    bottom: 1rem;
+  .m-petMap-point {
+    .db;
+    .pointer;
+    .w(8px);
+    .h(8px);
+    background-color: #f44a22;
+    border: 1px solid #000a;
+    
+    // .blink(.75s);
+    // &:hover {
+    //   animation: none
+    // }
   }
 
   .m-map-switch {
     .pa;
     .flex;
     .full(x);
-    .z(4);
+    .z(3);
     .r(10px);
     .auto(x);
     .lt(20px, 30px);
@@ -84,5 +88,13 @@
         text-shadow: 0 0 1px;
       }
     }
+  }
+}
+
+.m-poi-info {
+  text-align: center;
+  
+  p {
+    margin: 0.125rem;
   }
 }

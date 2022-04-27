@@ -21,7 +21,7 @@ export default {
         case "TRIGGER":
           return "触发点";
         case "LOOT":
-          return "其他坐标";
+          return "前置/其他";
         default:
           return "未知";
       }
@@ -31,7 +31,7 @@ export default {
     },
     pointDesc: function () {
       let type = this.item.ObjectType == 3 ? "NPC" : "交互物件";
-      return `(${type})${this.item.ObjectID}`;
+      return `(${type}) ${this.item.ObjectID}`;
     },
   },
 };

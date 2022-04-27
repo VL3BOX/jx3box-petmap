@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- <pet-map :pet-id="244"/> -->
-    <pet-map :pet-id="58"/>
+    <pet-map :pet-id="244"/>
     <!-- <pet-map :pet-id="339"/> -->
     <!-- <pet-map :pet-id="385"/> -->
   </div>
