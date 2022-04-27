@@ -21,12 +21,12 @@
 </template>
 
 <script>
-import MapScales from "@/assets/data/MapScales.json";
-import PetPOIs from "@/assets/data/PetPOIs.json";
+import MapScales from "../assets/data/MapScales.json";
+import PetPOIs from "../assets/data/PetPOIs.json";
 import jx3box_data from "@jx3box/jx3box-common/data/jx3box.json";
 
-import MapSwitch from "@/components/MapSwitch.vue";
-import PoiInfo from "@/components/PoiInfo.vue";
+import MapSwitch from "./MapSwitch.vue";
+import PoiInfo from "./PoiInfo.vue";
 
 export default {
   name: "PetMap",
@@ -110,6 +110,6 @@ export default {
 </script>
 
 <style lang="less">
-@import "csslab/base.less";
+@import "/node_modules/csslab/base.less";
 @import "../assets/css/petmap.less";
 </style>
