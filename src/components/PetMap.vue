@@ -110,6 +110,6 @@ export default {
 </script>
 
 <style lang="less">
-@import "../../node_modules/csslab/base.less";
+@import "csslab/base.less";
 @import "../assets/css/petmap.less";
 </style>
