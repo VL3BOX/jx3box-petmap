@@ -1,6 +1,8 @@
 {
   "name": "petmap",
-  "version": "0.1.1",
+  "version": "0.1.2",
+  "description": "JX3BOX PVX Pet Map",
+  "main": "index.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -43,5 +45,9 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JX3BOX/jx3box-petmap.git"
+  }
 }
