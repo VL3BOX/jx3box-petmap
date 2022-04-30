@@ -1,22 +1,31 @@
 <template>
-  <div class="m-petMap" :style="divSize" v-if="dataExist">
-    <img class="m-petMap-img" draggable="false" :src="petMap_url" alt="宠物地图" @click="showDesc=false"/>
-    <map-switch
-      v-if="multiple_Map"
-      :maps="mapScales"
-      :display="displayMap"
-      @onChangeMap="changeMap"
-    ></map-switch>
-    <el-popover
-      class="m-petMap-popover"
-      placement="top"
-      trigger="hover"
-      v-for="(point, index) in showPosition"
-      :key="index"
-      :style="pointStyle(point.Coordinates, mapScales[displayMap])">
-      <poi-info :item="point"></poi-info>
-      <span class="m-petMap-point" slot="reference"></span>
-    </el-popover>
+  <div class="m-petmap-warpper" v-if="dataExist">
+    <div class="m-petmap" :style="divSize">
+      <img
+        class="m-petmap-img"
+        draggable="false"
+        :src="petmap_url"
+        alt="宠物地图"
+        @click="showDesc = false"
+      />
+      <map-switch
+        v-if="multiple_Map"
+        :maps="mapScales"
+        :display="displayMap"
+        @onChangeMap="changeMap"
+      ></map-switch>
+      <el-popover
+        class="m-petmap-popover"
+        placement="top"
+        trigger="hover"
+        v-for="(point, index) in showPosition"
+        :key="index"
+        :style="pointStyle(point.Coordinates, mapScales[displayMap])"
+      >
+        <poi-info :item="point"></poi-info>
+        <span class="m-petmap-point" slot="reference"></span>
+      </el-popover>
+    </div>
   </div>
 </template>
 
@@ -43,19 +52,19 @@ export default {
     height: {
       type: Number,
       default: 896,
-    }
+    },
   },
   data() {
     return {
       positions: {},
       mapScales: {},
       displayMap: 0,
-      showDesc: false
+      showDesc: false,
     };
   },
   created() {
     let POIs = PetPOIs[`${this.petId}`];
-    if(!POIs) return;
+    if (!POIs) return;
     for (let mapId of POIs.map((item) => parseInt(item.MapID))) {
       this.mapScales[mapId] = MapScales[mapId][0];
       this.positions[mapId] = [];
@@ -81,13 +90,18 @@ export default {
     },
     pointStyle: function (Coordinates, MapScales) {
       return `left: ${
-        (Coordinates.x - MapScales.StartX) * MapScales.Scale * (this.width / 1024) 
+        (Coordinates.x - MapScales.StartX) *
+        MapScales.Scale *
+        (this.width / 1024)
       }px; bottom: ${
-        (Coordinates.y - MapScales.StartY) * MapScales.Scale * (this.height / 896) }px;`;
-    }
+        (Coordinates.y - MapScales.StartY) *
+        MapScales.Scale *
+        (this.height / 896)
+      }px;`;
+    },
   },
   computed: {
-    petMap_url: function () {
+    petmap_url: function () {
       return `${jx3box_data.__imgPath}map/maps/map_${this.displayMap}_0.png`;
     },
     multiple_Map: function () {
@@ -99,12 +113,12 @@ export default {
     dataExist: function () {
       return PetPOIs[`${this.petId}`] != undefined;
     },
-    divSize: function() {
+    divSize: function () {
       return {
-        width: this.width + 'px',
-        height: this.height + 'px',
-      }
-    }
+        width: this.width + "px",
+        height: this.height + "px",
+      };
+    },
   },
 };
 </script>

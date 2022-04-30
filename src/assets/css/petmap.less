@@ -10,21 +10,31 @@
 //   animation-fill-mode:forwards;
 //   animation-iteration-count: infinite;
 // }
+.m-petmap-warpper {
+  width: 100%;
+  overflow: auto;
+  margin: 0.25rem;
 
-.m-petMap {
+  &::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+  }
+}
+
+.m-petmap {
   .pr;
   .auto(x);
   .x(left);
   user-select: none;
 
-  .m-petMap-img {
+  .m-petmap-img {
     .z(1);
     .pa;
     .lt(0);
     .size(100%);
   }
 
-  .m-petMap-popover {
+  .m-petmap-popover {
     .pa;
     .db;
     .z(2);
@@ -32,18 +42,13 @@
     .ml(-4.5px);
   }
 
-  .m-petMap-point {
+  .m-petmap-point {
     .db;
     .pointer;
     .w(8px);
     .h(8px);
     background-color: #f44a22;
     border: 1px solid #000a;
-    
-    // .blink(.75s);
-    // &:hover {
-    //   animation: none
-    // }
   }
 
   .m-map-switch {
@@ -93,7 +98,7 @@
 
 .m-poi-info {
   text-align: center;
-  
+
   p {
     margin: 0.125rem;
   }
