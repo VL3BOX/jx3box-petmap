@@ -83,6 +83,9 @@ export default {
     }
     this.displayMap = parseInt(Object.keys(this.mapScales)[0]);
   },
+  mounted() {
+    this.$emit("loaded", this.dataExist);
+  },
   methods: {
     changeMap: function (index) {
       this.displayMap = parseInt(index);
