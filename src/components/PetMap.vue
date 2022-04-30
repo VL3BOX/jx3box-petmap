@@ -30,8 +30,8 @@
 </template>
 
 <script>
-import MapScales from "../assets/data/MapScales.json";
-import PetPOIs from "../assets/data/PetPOIs.json";
+import MapScales from "../../output/MapScales.json";
+import PetPOIs from "../../output/PetPOIs.json";
 import jx3box_data from "@jx3box/jx3box-common/data/jx3box.json";
 
 import MapSwitch from "./MapSwitch.vue";

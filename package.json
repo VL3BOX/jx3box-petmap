@@ -1,6 +1,6 @@
 {
   "name": "@jx3box/jx3box-petmap",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "JX3BOX PVX Pet Map",
   "main": "index.js",
   "scripts": {
