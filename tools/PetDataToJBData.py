@@ -1,6 +1,6 @@
 import luadata, json
 
-SRC_PATH = r"../source/zhcn.jx3dat"
+SRC_PATH = r"../source/zhcn_hd.jx3dat"
 DST_PATH = r"../output/PetPOIs.json"
 
 GLOBAL_IDENTIFIERS = {

@@ -21,7 +21,7 @@ namespace MiddleMapScaleData
                     ret[map.ID.ToString()] = new JObject();
                 ((JObject)ret[map.ID.ToString()]).Add(map.SubMapID.ToString(), JObject.FromObject(map));
             }
-            File.WriteAllText("MapScales.json", ret.ToString(Formatting.Indented), Encoding.GetEncoding(936));
+            File.WriteAllText("../../../../../output/MapScales.json", ret.ToString(Formatting.Indented), new UTF8Encoding(false));
         }
     }
 }

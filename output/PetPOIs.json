@@ -1323,6 +1323,19 @@
                     "z": 1953664
                 }
             ]
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 0,
+            "ObjectID": 0,
+            "MapID": 526,
+            "Coordinates": [
+                {
+                    "x": 22604,
+                    "y": 73639,
+                    "z": 1934272
+                }
+            ]
         }
     ],
     "384": [
@@ -1369,6 +1382,77 @@
                     "x": 85312,
                     "y": 111817,
                     "z": 1156928
+                }
+            ]
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 3,
+            "ObjectID": 107357,
+            "MapID": 215,
+            "Coordinates": [
+                {
+                    "x": 79259,
+                    "y": 111127,
+                    "z": 1158144
+                }
+            ]
+        }
+    ],
+    "414": [
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 5,
+            "ObjectID": 9637,
+            "MapID": 13,
+            "Coordinates": [
+                {
+                    "x": 63852,
+                    "y": 61132,
+                    "z": 1050432
+                }
+            ]
+        },
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 109278,
+            "MapID": 13,
+            "Coordinates": [
+                {
+                    "x": 60769,
+                    "y": 61011,
+                    "z": 1052480
+                }
+            ]
+        }
+    ],
+    "413": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 109423,
+            "MapID": 217,
+            "Coordinates": [
+                {
+                    "x": 104686,
+                    "y": 13203,
+                    "z": 1079232
+                }
+            ]
+        }
+    ],
+    "412": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 109467,
+            "MapID": 156,
+            "Coordinates": [
+                {
+                    "x": 48084,
+                    "y": 42433,
+                    "z": 1063424
                 }
             ]
         }
