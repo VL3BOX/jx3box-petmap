@@ -2,6 +2,7 @@ import luadata, json
 
 SRC_PATH = r"../source/zhcn_hd.jx3dat"
 DST_PATH = r"../output/PetPOIs.json"
+MAPS_PATH = r"../output/PetMaps.json"
 
 GLOBAL_IDENTIFIERS = {
     "ITEM_TABLE_TYPE": { 
@@ -27,6 +28,7 @@ GLOBAL_IDENTIFIERS = {
 with open(SRC_PATH, "r", encoding="gb2312") as fs:
     pets, pois = luadata.unserialize(fs.read()[7:], G=GLOBAL_IDENTIFIERS)
 ret = {}
+maps = {}
 for pet in pets:
     subPOIs = []
     for poiInfo in [i for i in pois if i["nSerendipityID"] == pet["nID"]]:
@@ -37,6 +39,10 @@ for pet in pets:
             "MapID": poiInfo.get("dwMapID", 0),
             "Coordinates": [{ "x": i[0], "y": i[1], "z": i[2] } for i in poiInfo.get("aPosition", [])]
         })
+        maps[poiInfo.get("dwMapID")] = True
     ret[pet["dwPet"]] = subPOIs
+
 with open(DST_PATH, "w", encoding="utf-8") as fs:
     fs.write(json.dumps(ret, indent=4, ensure_ascii=False))
+with open(MAPS_PATH, "w", encoding="utf-8") as fs:
+    fs.write(json.dumps(list(maps.keys()), indent=4, ensure_ascii=False))

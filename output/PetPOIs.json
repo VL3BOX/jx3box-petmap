@@ -1456,5 +1456,73 @@
                 }
             ]
         }
+    ],
+    "429": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 113068,
+            "MapID": 582,
+            "Coordinates": [
+                {
+                    "x": 103956,
+                    "y": 32289,
+                    "z": 1067520
+                }
+            ]
+        },
+        {
+            "WorkType": "LOOT",
+            "ObjectType": 5,
+            "ObjectID": 10060,
+            "MapID": 582,
+            "Coordinates": [
+                {
+                    "x": 102902,
+                    "y": 30747,
+                    "z": 1063360
+                },
+                {
+                    "x": 103609,
+                    "y": 29255,
+                    "z": 1065984
+                },
+                {
+                    "x": 102830,
+                    "y": 28078,
+                    "z": 1064512
+                }
+            ]
+        }
+    ],
+    "430": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 112639,
+            "MapID": 580,
+            "Coordinates": [
+                {
+                    "x": 38261,
+                    "y": 11951,
+                    "z": 1072448
+                }
+            ]
+        }
+    ],
+    "428": [
+        {
+            "WorkType": "TRIGGER",
+            "ObjectType": 3,
+            "ObjectID": 112804,
+            "MapID": 578,
+            "Coordinates": [
+                {
+                    "x": 37885,
+                    "y": 77837,
+                    "z": 1080320
+                }
+            ]
+        }
     ]
 }
